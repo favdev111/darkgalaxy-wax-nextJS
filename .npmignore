@@ -32,18 +32,34 @@ nbproject
 .node_repl_history
 .vagrant
 .eslintcache
-.DS_Store
+.travis.yml
+.gitattributes
 
 Thumbs.db
 dump.rdb
 npm-debug.log
-yarn-error.log
+package-lock.json
+yarn.lock
 
 ##
 ## PROJECT
 ##
 
-lib
+play
+pages
+site
+static
 build
-site/api-components/*
-!site/api-components/.gitkeep
+karma.conf.js
+webpack.config.js
+next.config.js
+deploy.json
+
+CHANGELOG.md
+CODE_OF_CONDUCT.md
+CONTRIBUTING.md
+
+.editorconfig
+.eslintignore
+.eslintrc
+.babelrc
