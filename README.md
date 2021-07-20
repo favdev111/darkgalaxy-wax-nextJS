@@ -1,18 +1,3 @@
-<div align="center">
-  <img src='./static/img/logo-invert.png' alt='Arwes' height='100' />
-</div>
-
-<<<<<<< HEAD
-<h1 align="center">Based ont the Arwes framework</h1>
-=======
-<h1 align="center">Based on the Arwes framework</h1>
->>>>>>> 1807a41c24251a89f90a71ba740d08b7e1294778
-
-<p align="center" style="font-size: 1.2rem;">
-  Dark Galaxies Trading Card Game utililising the WAX blockchain.
-</p>
-
-_______________
 
 Arwes is a web framework to build user interfaces for
 web applications based on science fiction and cyberpunk styles guidelines, animations
